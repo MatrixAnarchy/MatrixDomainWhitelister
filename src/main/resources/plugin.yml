@@ -1,0 +1,8 @@
+name: MatrixDomainWhitelister
+version: ${project.version}
+main: com.matrixanarchy.matrixdomainwhitelister.MatrixDomainWhitelister
+api-version: 1.16
+prefix: MatrixDomainWhitelister
+authors: [ gmachina ]
+description: Whitelists domains you can connect with to your mc server
+website: matrixanarchy.com

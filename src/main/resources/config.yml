@@ -1,0 +1,3 @@
+warning: '&cYou entered the wrong IP address, please use &3matrixanarchy.com &cinstead'
+allowed-host-names:
+  - 'matrixanarchy.com'
