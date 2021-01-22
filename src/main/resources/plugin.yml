@@ -6,3 +6,7 @@ prefix: MatrixDomainWhitelister
 authors: [ gmachina ]
 description: Whitelists domains you can connect with to your mc server
 website: matrixanarchy.com
+commands:
+  MatrixDomainWhitelister:
+    aliases: mdw
+    permission: MatrixDomainWhitelister.admin
